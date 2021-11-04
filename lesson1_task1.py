@@ -1,5 +1,5 @@
 #print('hello world')
-# Залача номер 2 из первого урока по Python
+# Залача номер 2 из первого урока по Python.
 def sum_digits(value):
     result = 0
 
