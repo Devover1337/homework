@@ -2,8 +2,6 @@
 
 numb = int(input('Введите тестируемое число: '))
 
-
-
 if numb >= 11 or numb <= 19:
     print(numb, 'процентов')
 
