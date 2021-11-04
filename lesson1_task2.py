@@ -1,21 +1,5 @@
 #Залача номер 1 из первого урока по Python.
 
-# def convert_format(sec):
-#     sec = sec % (24 * 3600)
-#     hour = sec // 3600
-#     sec %= 3600
-#     min = sec // 60
-#     sec %= 60
-#     day = sec // 86400
-#     print('hour: ', hour)
-#     print('min: ', min)
-#     print('sec: ', sec)
-#     print('day', day)
-#     return "%02d:%02d:%02d:%02d" % (day, hour, min, sec)
-#
-# n = int(input('Введите число: '))
-# print('time: ', convert_format(n) )
-#
 
 seconds_in_day = 86400
 seconds_in_hour = 3600
